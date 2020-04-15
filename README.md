@@ -1,2 +1,2 @@
-# repos-manager
+# repos-manager-backend
 Node.js challenge - GoStack Bootcamp
